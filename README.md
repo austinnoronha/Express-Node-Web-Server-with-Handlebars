@@ -21,8 +21,6 @@
 
 ### 🏠 [Homepage](https://github.com/austinnoronha/Express-Node-Web-Server-with-Handlebars)
 
-### ✨ [Demo](https://github.com/austinnoronha/Express-Node-Web-Server-with-Handlebars)
-
 ## Prerequisites
 
 - npm >=5.5.0
@@ -40,7 +38,7 @@ npm install
 npm run start
 ```
 
-## Run tests
+## Run dev
 
 ```sh
 npm run dev
